@@ -41,6 +41,7 @@ In order to get this information, loops and conditionals statements with members
 
 # Election Audit Results
 ![im_1](election_results.png)
+
 There were "369,711" votes cast in the election.
 - The counties were:
     - Jefferson
